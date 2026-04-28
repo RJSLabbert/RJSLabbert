@@ -6,9 +6,23 @@
 
 ## `// What I build`
 
-IT Technician with hands-on experience building Android apps, web systems, and local AI projects. I work with real hardware, real problems, and real code — picking up industry experience one project at a time.
+IT Technician who builds things. Android apps in Kotlin, WordPress plugins in PHP, Python system tools, local AI on embedded hardware, and web platforms from scratch. I don't just configure systems — I understand them, break them, and build solutions on top of them.
 
-Currently working toward system architecture and cloud.
+Currently working toward cloud architecture and system design, with a strong foundation in real-world hands-on delivery.
+
+<br/>
+
+## `// Projects`
+
+| Project | What | Tech |
+|---|---|---|
+| 🐉 **[Ryuu](https://github.com/RJSLabbert/fara-ai)** | Local AI assistant running on Raspberry Pi 5 with Ollama | Python · FastAPI · Linux |
+| 📋 **[Daily Discipline Tracker](https://github.com/RJSLabbert/Daily_Discipline_Tracker)** | Android productivity app — live, versioned, daily use | Kotlin · Android SDK |
+| 🎙️ **[Voice to AI Minutes](https://github.com/RJSLabbert/VoiceToTextApp_Android)** | Android app converting speech to structured AI summaries via Gemini | Kotlin · Gemini API |
+| 🌐 **[Rock Solid Code](https://rocksolidcode.co.za)** | Custom WordPress theme built from scratch, live platform | PHP · WordPress · CSS |
+| 🔌 **WP Early Access Plugin** | Custom WordPress plugin for early access gating | PHP |
+| 🖥️ **Python USB Device Monitor** | System tool monitoring USB devices in real time | Python |
+| 📊 **Ryuu Benchmark Suite** | Bash benchmarking scripts for Pi 5 hardware testing | Bash · Linux |
 
 <br/>
 
@@ -32,12 +46,10 @@ Currently working toward system architecture and cloud.
 
 ## `// Currently building`
 
-| Project | What | Status |
-|---|---|---|
-| 🐉 **Ryuu** | Local AI assistant on Raspberry Pi 5 | In progress |
-| 📋 **Daily Discipline Tracker** | Android productivity app | Live & in use |
-| 🌐 **Rock Solid Code** | Faith + tech blog & portfolio | Live |
-| ☁️ **AWS Cloud Practitioner** | Certification | Studying |
+| | |
+|---|---|
+| 🐉 Ryuu — AI HAT 2 arriving, Ollama baseline in progress | In progress |
+| ☁️ AWS Cloud Practitioner | Studying |
 
 <br/>
 
