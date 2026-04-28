@@ -6,9 +6,7 @@
 
 ## `// What I build`
 
-IT Technician who builds things. Android apps in Kotlin, WordPress plugins in PHP, Python system tools, local AI on embedded hardware, and web platforms from scratch. I don't just configure systems — I understand them, break them, and build solutions on top of them.
-
-Currently working toward cloud architecture and system design, with a strong foundation in real-world hands-on delivery.
+I actually build functional stuff. Android apps, websites, Python tools, WordPress plugins, and local AI on a Pi 5. I design the systems, write the code, and motor through until it works.
 
 <br/>
 
@@ -18,7 +16,6 @@ Currently working toward cloud architecture and system design, with a strong fou
 |---|---|---|
 | 🐉 **[Ryuu](https://github.com/RJSLabbert/fara-ai)** | Local AI assistant running on Raspberry Pi 5 with Ollama | Python · FastAPI · Linux |
 | 📋 **[Daily Discipline Tracker](https://github.com/RJSLabbert/Daily_Discipline_Tracker)** | Android productivity app — live, versioned, daily use | Kotlin · Android SDK |
-| 🎙️ **[Voice to AI Minutes](https://github.com/RJSLabbert/VoiceToTextApp_Android)** | Android app converting speech to structured AI summaries via Gemini | Kotlin · Gemini API |
 | 🌐 **[Rock Solid Code](https://rocksolidcode.co.za)** | Custom WordPress theme built from scratch, live platform | PHP · WordPress · CSS |
 | 🔌 **WP Early Access Plugin** | Custom WordPress plugin for early access gating | PHP |
 | 🖥️ **Python USB Device Monitor** | System tool monitoring USB devices in real time | Python |
@@ -41,15 +38,6 @@ Currently working toward cloud architecture and system design, with a strong fou
 ![Git](https://img.shields.io/badge/Git-b87333?style=flat-square&logo=git&logoColor=f5f3ef&labelColor=2b2b2b)
 
 </div>
-
-<br/>
-
-## `// Currently building`
-
-| | |
-|---|---|
-| 🐉 Ryuu — AI HAT 2 arriving, Ollama baseline in progress | In progress |
-| ☁️ AWS Cloud Practitioner | Studying |
 
 <br/>
 
