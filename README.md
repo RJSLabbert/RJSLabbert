@@ -19,7 +19,7 @@ val riaan = Developer(
 
 I'm an IT Technician with hands-on experience building Android apps, web systems, and local AI projects. I work with real hardware, real problems, and real code — picking up industry experience one project at a time.
 
-Currently working toward system architecture and cloud, with an eye on Japan.
+Currently working toward system architecture and cloud.
 
 <br/>
 
