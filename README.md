@@ -36,7 +36,7 @@ Currently working toward system architecture and cloud, with an eye on Japan.
 ![Bash](https://img.shields.io/badge/Bash-b87333?style=flat-square&logo=gnu-bash&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-c9a24d?style=flat-square&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-b87333?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_CLF--C02-c9a24d?style=flat-square&logo=amazon-aws&logoColor=white)
+
 
 </div>
 
