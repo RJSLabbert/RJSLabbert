@@ -17,7 +17,7 @@ I actually build functional stuff. Android apps, websites, Python tools, WordPre
 | 🐉 **[Ryuu](https://github.com/RJSLabbert/fara-ai)** | Local AI assistant running on Raspberry Pi 5 with Ollama | Python · FastAPI · Linux |
 | 📋 **[Daily Discipline Tracker](https://github.com/RJSLabbert/Daily_Discipline_Tracker)** | Android productivity app — live, versioned, daily use | Kotlin · Android SDK |
 | 🌐 **[Rock Solid Code](https://rocksolidcode.co.za)** | Custom WordPress theme built from scratch, live platform | PHP · WordPress · CSS |
-| 🔌 **WP Early Access Plugin** | Custom WordPress plugin for early access gating | PHP |
+| 🔌 **[RSC Early Access Plugin](https://github.com/RJSLabbert/rsc-early-access-plugin)** | Custom WordPress plugin for early access gating | PHP |
 | 🖥️ **Python USB Device Monitor** | System tool monitoring USB devices in real time | Python |
 | 📊 **Ryuu Benchmark Suite** | Bash benchmarking scripts for Pi 5 hardware testing | Bash · Linux |
 
